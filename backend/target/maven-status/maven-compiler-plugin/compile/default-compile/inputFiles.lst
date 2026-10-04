@@ -1,0 +1,15 @@
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\CollegeErpApplication.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\config\CorsConfig.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\config\DemoDataInitializer.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\controller\AuthController.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\controller\CourseController.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\controller\DashboardController.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\controller\StudentController.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\controller\TeacherController.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\model\Course.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\model\Student.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\model\Teacher.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\repository\CourseRepository.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\repository\StudentRepository.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\repository\TeacherRepository.java
+D:\Nitesh projects\nitesh project\college management system\backend\src\main\java\com\college\erp\service\SessionAuthService.java
